@@ -1,2 +1,2 @@
 # DiceRoll
-Dice Roller Project
+Anonomised Pseudocode for a Dice Roller Project.
